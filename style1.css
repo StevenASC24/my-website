@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: beige;
+    padding: 1px;
+    border: 10px solid #aaa11ecf;
+}
+
+.Family {
+    width: 360px;
+}
+
+p {
+    font-size: 28px;
+    color: red;
+}

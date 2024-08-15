@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    background-color: beige;
+    border: 10px solid #0aa5d0;
+}
+
+p {
+    font-size: 32px;
+}
+
+.codestarall {
+    width: 800px;
+}
